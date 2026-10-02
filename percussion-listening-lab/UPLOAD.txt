@@ -1,0 +1,1 @@
+Open this folder. Upload its CONTENTS to the repository main file list: index.html, all six folders, and UPLOAD.txt if desired. Do not upload the outer folder. GitHub Pages: main / (root).
