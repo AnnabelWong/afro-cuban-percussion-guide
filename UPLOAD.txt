@@ -1,0 +1,1 @@
+Open this folder and upload its CONTENTS: index.html and all seven folders. Keep each folder intact. Upload to the main repository file list, not inside a new outer folder. Commit changes. Pages: main / (root).
