@@ -1,0 +1,5 @@
+GITHUB PAGES UPDATE
+
+Upload index.html AND all five lesson folders to the root of your repository. Keep the folder structure intact. Replace the old index.html. Settings > Pages remains main / (root). Your existing website address stays the same.
+
+You can upload the unzipped contents together using Add file > Upload files.
