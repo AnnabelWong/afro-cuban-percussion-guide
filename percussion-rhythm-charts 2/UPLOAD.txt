@@ -1,0 +1,3 @@
+RHYTHM CHARTS UPDATE
+Upload all the contents of this folder to the root of the existing repository, replacing matching files. Include the new rhythm-charts folder. The eight existing HTML pages have updated menus. Existing song and instrument practice files are preserved. The homepage includes its mini player code.
+8 initial counting grids: 4 clave, 2 conga and 2 cascara orientations. Comparsa and Abakua have coverage notes, not unverified grids.
