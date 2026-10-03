@@ -1,7 +1,5 @@
-UPDATED 3 OCTOBER: TWO LISTENING LAB SUBMENUS + 30 SONG CHALLENGES
+THREE LEVELS — 75 SONG CHALLENGES
 
-Upload the CONTENTS of this folder to the root of your GitHub repository. Replace index.html and upload all seven page folders together. Do not upload this enclosing folder itself.
+Upload the CONTENTS of this folder to the root of your existing GitHub repository. Replace index.html and all seven existing page folders, including song-practice and listening-lab. Do not upload the ZIP itself, or put the enclosing percussion-three-levels folder inside the repository. Keep the same GitHub Pages URL.
 
-GitHub Pages should publish main / (root). After deployment, refresh your website. In Listening Lab choose Individual Instruments or 30 Song Challenges.
-
-YouTube playback needs an internet connection and may be restricted by the video owner or your region. Test from your published https website, not a file:// preview.
+Beginner: original 30. Intermediate: 30. Advanced: 15. Existing beginner progress is preserved in the same browser on the same website address. YouTube playback depends on the uploader and region; a listed video is not a guarantee of embedding availability.
