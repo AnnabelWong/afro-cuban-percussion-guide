@@ -1,1 +1,7 @@
-Open this folder and upload its CONTENTS: index.html and all seven folders. Keep each folder intact. Upload to the main repository file list, not inside a new outer folder. Commit changes. Pages: main / (root).
+UPDATED 3 OCTOBER: TWO LISTENING LAB SUBMENUS + 30 SONG CHALLENGES
+
+Upload the CONTENTS of this folder to the root of your GitHub repository. Replace index.html and upload all seven page folders together. Do not upload this enclosing folder itself.
+
+GitHub Pages should publish main / (root). After deployment, refresh your website. In Listening Lab choose Individual Instruments or 30 Song Challenges.
+
+YouTube playback needs an internet connection and may be restricted by the video owner or your region. Test from your published https website, not a file:// preview.
